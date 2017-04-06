@@ -1,8 +1,8 @@
 # User Registration System
 ## Project Members
 ```
-* Yashdeep Singh     * Shreshtha bindal
-          * S.Tanushree Rao
+ • Yashdeep Singh     • Shreshtha bindal
+          • S.Tanushree Rao
 ```
 ## Synopsis
 

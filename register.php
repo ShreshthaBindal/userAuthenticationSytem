@@ -54,8 +54,8 @@ $mail->Password = $smtppass;
 $mail->SMTPSecure = 'ssl';
 $mail->Port = 465;
 
-$mail->setFrom('info@pixelw3.com', 'PixelW3 Technologies');
-$mail->addAddress('vivek@codingcyber.com', 'Vivek Vengala');
+$mail->setFrom('yashdeepsingh@hotmail.com', 'YT & T');
+$mail->addAddress('yashdeepsingh@hotmail.com', 'Yashdeep Singh');
 
 $mail->Subject = 'Verify Your Email';
 $mail->Body    = "http://localhost/user-management/verify.php?key=$verification_key&id=$id";

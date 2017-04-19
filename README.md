@@ -1,3 +1,4 @@
+[![ghit.me](https://ghit.me/badge.svg?repo=yashdeep02/userRegistration)](https://ghit.me/repo/yashdeep02/userRegistration)
 # User Registration System
 ## Project Members
 ```
